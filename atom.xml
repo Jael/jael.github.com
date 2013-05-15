@@ -2,15 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Jael]]></title>
-  <link href="http://Jael.github.io/atom.xml" rel="self"/>
-  <link href="http://Jael.github.io/"/>
-  <updated>2013-05-15T10:45:49+08:00</updated>
-  <id>http://Jael.github.io/</id>
+  <link href="http://Jael.io/atom.xml" rel="self"/>
+  <link href="http://Jael.io/"/>
+  <updated>2013-05-15T10:55:00+08:00</updated>
+  <id>http://Jael.io/</id>
   <author>
     <name><![CDATA[Jael]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My first blog]]></title>
+    <link href="http://Jael.io/blog/2013/05/15/my-first-blog/"/>
+    <updated>2013-05-15T10:49:00+08:00</updated>
+    <id>http://Jael.io/blog/2013/05/15/my-first-blog</id>
+    <content type="html"><![CDATA[<p>终于有时间把博客搭建起来了。。。。。。</p>
+]]></content>
+  </entry>
   
 </feed>
